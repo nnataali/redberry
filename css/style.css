@@ -28,3 +28,88 @@
     Height: 18.33px
 }
 
+.chess{
+    position: absolute;
+    width: 923px;
+    height: 1196px;
+    margin-top: 84px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.red-container{
+    position: absolute;
+    background-color: #FD5334;
+    width: 997px;
+    height: 1280px;
+    left: 923px;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.heading-text1{
+    font-size: 80px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 265px;
+    margin-left: 85px;
+    margin-bottom: 16px;
+    width: 496px;
+    height: 109px;
+    position:absolute;
+
+
+}
+
+.heading-text2{
+    font-size: 80px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    width: 570px;
+    height: 109px;
+    margin-left: 85px;
+    margin-top: 390px;
+    position:absolute;
+
+
+}
+
+.heading-text3{
+    Width: 136px;
+    Height: 27px;
+    margin: 306px 254px 947px 607px;
+    position:absolute;
+    font-family: 'Nunito';
+}
+
+.rectangle{
+    background-color: #212529    ;
+    color: white;
+    border-radius: 8px;
+    width: 191px;
+    height: 53px;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    margin-left: 85px;
+    margin-top: 601px;
+    position:absolute;
+
+}
+
+.button-text{
+    margin: 7px 60px 13px 24px;
+    width: 107px;
+    height: 27px;
+}
+
+.arrow{
+    margin-top: 615px;
+    margin-left: 228px;
+    position:absolute;
+}
+
+
+
