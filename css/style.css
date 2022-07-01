@@ -28,7 +28,7 @@
     Height: 18.33px
 }
 
-.chess{
+.chess-board{
     position: absolute;
     width: 923px;
     height: 1196px;
@@ -100,7 +100,7 @@
 }
 
 .button-text{
-    margin: 7px 60px 13px 24px;
+    margin: 10px 60px 13px 24px;
     width: 107px;
     height: 27px;
 }
@@ -112,4 +112,35 @@
 }
 
 
+.chess{
+    position: absolute;
+    width: 923px;
+    height: 1196px;
+    margin-top: 84px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
 
+}
+
+.create-account{
+    position: absolute;
+    Width: 215px;
+    Height:24px;
+    margin-left: 970px;
+    margin-top: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+
+}
+
+.line{
+    width: 995px;
+    height: 1px;
+    background-color:#B9B4C3;
+    margin-top: 75px;
+    margin-left: 915px;
+    position: absolute;
+}
