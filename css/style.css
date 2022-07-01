@@ -1,0 +1,30 @@
+.header{
+    background-color: #7025FB;
+    width: 923px;
+    height: 84px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+
+}
+
+.header-title{
+    position: absolute;
+    color: white;
+    Width: 252.82px;
+    Height: 23.35px;
+    margin: 30px 587px 30.65px 82px;
+    font-size: 20px;
+}
+
+
+.crown{
+    position: absolute;
+    margin: 30px 587px 35.26px 60px;
+    Width: 14.67px;
+    Height: 18.33px
+}
+
