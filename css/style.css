@@ -138,9 +138,110 @@
 
 .line{
     width: 995px;
-    height: 1px;
     background-color:#B9B4C3;
     margin-top: 75px;
     margin-left: 915px;
     position: absolute;
+    border-bottom: 1px solid silver;
 }
+
+
+.personal-information{
+    margin-left: 971px;
+    margin-top: 324px;
+    font-size: 32px;
+    font-family: 'Open sans';
+    font-weight: 600;
+}
+
+.basic-information{
+    Width:205px;
+    Height:21px;
+    margin-left: 971px;
+    margin-top: -10px;
+    color: #95939A;
+    font-size: 14px;
+}
+.form{
+    position: absolute;
+}
+
+.next-button{
+    background-color: #212529    ;
+    color: white;
+    border-radius: 8px;
+    width: 128px;
+    height: 53px;
+    font-size: 20px;
+    font-family: 'Open Sans';
+    margin-left: 650px;
+    margin-top: 96px;
+    position:absolute;
+}
+
+
+.next-button-text{
+    width: 44px;
+    height: 27px;
+    margin: 10px 60px 13px 20px;
+}
+
+.back-button{
+    border-radius: 8px;
+    background-color: white;
+    color: #212529;
+    width: 93px;
+    height: 53px;
+    font-size: 20px;
+    position:absolute;
+    font-family: 'Open Sans' ;
+    margin-top: 96px;
+
+}
+
+.back-button:hover{
+    background-color: #B9B4C3    ;
+
+}
+
+.back-button-text{
+    width: 45px;
+    height: 27px;
+    margin: 0 auto;
+}
+
+
+input{
+    margin-top: 30px;
+    width: 775px;
+    height: 46px;
+    font-size: 20px;
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.125); 
+
+}
+
+input:hover{
+    background: #F8F9FA;
+}
+
+input:active{
+    background: #E9ECEF;
+}
+
+/* input:after {
+    content: '*';
+    color: red;
+ } */
+.arrow-2{
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 111px;
+    
+
+}
+
+
+
+        
